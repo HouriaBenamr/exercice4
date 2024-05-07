@@ -1,0 +1,36 @@
+.jaune{
+margin-top:50px;
+border-style: solid;
+border-color: yellow;
+margin-right:300px;
+margin-left:300px;
+border-width:80px;
+}
+.bleu{ 
+border-style: solid;
+border-color: blue;
+margin-right:300px;
+margin-left:300px;
+border-width:40px;
+}
+.rouge{ 
+border-style: solid;
+border-color: red;
+margin-right:300px;
+margin-left:300px;
+border-width:40px;
+margin-bottom:10px;
+}
+.h3{
+text-align:center;}
+.ligne{
+margin-top:10px;
+border-style: solid;
+border-color: #757878;
+margin-right:300px;
+margin-left:300px;
+border-width:1px;
+}
+.text {
+	text-align: center;
+}
